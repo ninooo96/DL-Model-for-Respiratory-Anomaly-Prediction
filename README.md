@@ -1,6 +1,9 @@
 # DL-Model-for-Respiratory-Anomaly-Prediction
 ## Progetto di tesi Magistrale in Ingegneria Informatica (indirizzo Artificial Intelligence and Machine Learning)
 
+Lo scopo di questo lavoro di tesi è quello di studiare le moderne architetture di Deep Learning di tipo Transformer e l'addestramento di modelli per la classificazione di anomalie respiratorie attraverso l’analisi di file audio di auscultazione polmonare.
+
+----------------------
 Il notebook “Transformers - ICBHI dataset.ipynb” è stato utilizzato per effettuare tutte le operazioni di download, creazione e salvataggio dei dataset utilizzati, non solo ICBHI. Sono, inoltre, contenuti tutti gli esperimenti di preprocessing eseguiti sui dataset.
 
 Il notebook “Data preprocessing.ipynb” è stato utilizzato per effettuare tutte le operazioni di preprocessing sui dataset:
